@@ -1,0 +1,15 @@
+{
+  "name": "spaceradiodiscordbot",
+  "version": "1.0.0",
+  "description": "Discord Musik Bot to listen the Live Streams",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Dercio Hoffmann",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node-opus": "^0.3.0"
+  }
+}
